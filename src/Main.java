@@ -5,7 +5,7 @@ public class Main {
     void srt() {
         System.out.println();
     }
-    // age < 18 - 10%
+    // age < 18 - 10%,,
     // age < 55 - 20%,
     // age < 90 - 30%
     public static void ageTest(int age) {

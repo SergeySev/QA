@@ -2,7 +2,9 @@ public class Main {
 
     // Техники тест дизайна
 
-
+    void srt() {
+        System.out.println();
+    }
     // age < 18 - 10%,
     // age < 55 - 20%,
     // age < 90 - 30%
